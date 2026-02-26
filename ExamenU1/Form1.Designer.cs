@@ -182,7 +182,7 @@
             lbRegistrado.AutoSize = true;
             lbRegistrado.Font = new Font("Showcard Gothic", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbRegistrado.ForeColor = Color.LawnGreen;
-            lbRegistrado.Location = new Point(409, 267);
+            lbRegistrado.Location = new Point(432, 263);
             lbRegistrado.Name = "lbRegistrado";
             lbRegistrado.Size = new Size(28, 21);
             lbRegistrado.TabIndex = 8;
